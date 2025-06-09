@@ -1,5 +1,5 @@
 # freelance_earnings-analysis
-![Click to view Dashboard](https://freelanceinsights.streamlit.app/)
+[Click to view Dashboard](https://freelanceinsights.streamlit.app/)
 
 # Tech stack
 Python, Pandas, Seaborn , matplotlib, Streamlit
